@@ -1,0 +1,295 @@
+#PS4 {
+    transition: linear 0.3s;
+    opacity: 0.7;
+}
+
+#PS4:hover {
+    background-image: url(https://media.direct.playstation.com/is/image/sierialto/PS4_PRO_1_PH1_900X900_2X);
+    color: white;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    opacity: 1;
+    transition: linear 0.3s;
+}
+
+#XBOX {
+    transition: linear 0.3s;
+    opacity: 0.7;
+}
+
+#XBOX:hover {
+    background-image: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/11/16/20/p16xboxPRESS.jpg?w968h681);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    opacity: 1;
+    transition: linear 0.3s;
+}
+
+#SWITCH {
+    transition: linear 0.3s;
+    opacity: 0.7;
+}
+
+#SWITCH:hover {
+    background-image: url(https://www.adorama.com/images/Large/nihadskaaaa.jpg);
+    background-position: center;
+    color: white;
+    opacity: 1;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Action {
+    height: 300px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+#Action:hover {
+    background-image: url(https://i.imgur.com/EzVQ5jL.gif?noredirect);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Action:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Horror {
+    height: 300px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+#Horror:hover {
+    background-image: url(https://media.tenor.com/images/16f54f1ffbea443c543adbe11e09549a/tenor.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Horror:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Puzzles {
+    height: 300px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+#Puzzles:hover {
+    background-image: url(https://media.tenor.com/images/e872af91728303d15e38a19e2d7e495a/tenor.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Puzzles:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Platforming {
+    height: 300px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+#Platforming:hover {
+    background-image: url(https://thumbs.gfycat.com/PlasticFlatHerald-size_restricted.gif);
+    background-position: center;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Platforming:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#RPG {
+    height: 300px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+#RPG:hover {
+    background-image: url(https://i.imgur.com/NkIySK6.gif);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#RPG:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Solo {
+    height: 200px;
+    width: 400px;
+    border-radius: 8px;
+    background-image: url(https://rashmanly.files.wordpress.com/2018/03/9857f049752629-58bf8f7d16367.gif);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#Solo:hover {
+    border: solid 7px yellow;
+}
+
+#Solo:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Multi {
+    height: 200px;
+    width: 400px;
+    border-radius: 8px;
+    background-image: url(https://66.media.tumblr.com/tumblr_lv6uzfPy121qizoj2o1_500.gif);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#Multi:hover {
+    border: solid 7px yellow;
+}
+
+#Multi:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Intense {
+    height: 400px;
+    opacity: 0.6;
+}
+
+#Intense:hover {
+    background: rgb(0,0,0);
+    background: linear-gradient(160deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 41%, rgba(13,13,13,1) 47%, rgba(238,250,252,1) 100%);
+    color:white;
+    transition: linear 0.9s;
+    opacity: 1;
+}
+
+#Intense:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Comedic {
+    opacity: 0.6;
+}
+
+#Comedic:hover {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    transition: linear 0.7s;
+    opacity: 1;
+    color: rgb(8, 91, 124);
+}
+
+#Comedic:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#Calming {
+    opacity: 0.6;
+}
+
+#Calming:hover {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    transition: linear 0.9s;
+    opacity: 1;
+    color: rgb(103, 17, 184)
+}
+
+#Calming:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+h2 {
+    font-family: 'Press Start 2P';
+}
+
+#timeTen {
+    height: 250px;
+    width: 350px;
+    background-image: url(https://i.pinimg.com/originals/df/71/0f/df710f09bc8a725b507a1b825770e73a.gif);
+    background-position: center;
+    color: white;
+    font-size: 18px;
+}
+
+#timeTen:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#timeTwentyFive {
+    height: 250px;
+    width: 350px;
+    background-image: url(https://media.giphy.com/media/xT5LMIVjaSdYgho1xK/giphy.gif);
+    background-position: center;
+    color: white;
+    font-size: 18px;
+}
+
+#timeTwentyFive:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+#timeFifty {
+    height: 250px;
+    width: 350px;
+    background-image: url(https://thumbs.gfycat.com/RareThoseHawk-size_restricted.gif);
+    background-position: center;
+    color: white;
+    font-size: 18px;
+}
+
+#timeFifty:focus {
+    opacity: 0.5;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.384);
+    transition: linear 0.3s;
+}
+
+button {
+    font-family: 'Press Start 2P';
+}
+
+#Back:hover {
+    color: red;
+}
